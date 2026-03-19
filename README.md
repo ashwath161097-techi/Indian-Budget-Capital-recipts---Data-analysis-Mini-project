@@ -29,3 +29,10 @@ Without a structured analytical approach, it becomes challenging to:
 •	Support strategic fiscal decision-making
 Therefore, this project aims to analyze the fiscal performance of capital receipts using data visualization and business intelligence tools to uncover trends, measure growth, and provide actionable insights for improving forecasting accuracy and financial sustainability.
 
+# Tools and Technologes
+Excel: Data cleaning, transformation, and Pivot Tables.
+Power BI: Data modelling, DAX calculations, visualization, and interactive dashboard creation.
+
+# Dashboard Screenshot
+<img width="1010" height="564" alt="FINAL DASHBOARD" src="https://github.com/user-attachments/assets/a4ae8202-4075-4ecf-815d-2aced1d033a9" />
+
