@@ -1,6 +1,9 @@
 # Indian-Budget-Capital-recipts---Data-analysis-Mini-project
 This project analyzes the fiscal performance of capital receipts over the financial years 2017–2025 using data visualization and business intelligence techniques. The study focuses on evaluating revenue trends, growth patterns, and the comparative performance of Budget, Revised, and Actual estimates.
 
+# Dataset Sourse Link
+-<a href="https://indiadataportal.com/p/union-budget/r/mof-ub_capital_receipts-in-yr-aaa"> Dataset</a>
+
 # Project Objectives
 1.	Analyses Year-wise Financial Trends
 To examine the growth pattern of capital receipts from 2017 to 2024 and identify expansion and decline phases.
