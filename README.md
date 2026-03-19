@@ -36,3 +36,36 @@ Power BI: Data modelling, DAX calculations, visualization, and interactive dashb
 # Dashboard Screenshot
 <img width="1010" height="564" alt="FINAL DASHBOARD" src="https://github.com/user-attachments/assets/a4ae8202-4075-4ecf-815d-2aced1d033a9" />
 
+ # Dashboard Insights
+
+Top Section – KPI Cards
+•	Total Capital Receipts → Overall financial size
+•	Latest Year Total → Current performance level
+•	YoY Growth % → Performance momentum
+•	Top Contributing Category → Dominant revenue type
+
+Middle Left – Line Chart (Trend Analysis)
+•	Identifies long-term growth pattern
+•	Detects peak and decline periods
+•	Shows financial cycle performance
+
+
+Middle Right – Clustered Column Chart (Year vs Category)
+•	Shows which estimate type dominates
+•	Highlights gap between Budget and Actual
+•	Detects over-performance or under-performance
+•	Compares Actual, Budget, and Revised across years.
+
+Bottom Left – 100% Stacked Column Chart (Percentage Contribution)
+•	Identifies structural changes in revenue mix
+•	Shows dependency on specific estimate types
+•	Helps detect imbalance in revenue sources
+•	Shows relative contribution instead of raw numbers.
+
+Bottom Right – Pie Chart – Overall Category Share
+•	Planning estimates dominate total capital receipts.
+•	 Actual realization is comparatively lower.
+•	Possible gap between expected and realized revenue.
+
+# Final Conclusion
+The Capital Receipts dataset reveals a strong growth period culminating in a peak around 2022–2023, followed by a recent slowdown. While budget estimates dominate the overall revenue structure, actual realization remains comparatively lower, indicating scope for improving execution efficiency. Strategic forecasting improvements and stronger revenue monitoring are essential to ensure sustainable financial performance.
